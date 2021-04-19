@@ -44,8 +44,6 @@ class Utility(object):
         return None
     # [END functions_url_path_]
 
-
-
 class Pick(object):
     """A simple pick any cli class."""
 
